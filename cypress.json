@@ -1,4 +1,5 @@
 {
-    "baseUrl": "https://angular.realworld.io",
-    "userAgent": "testing"
+  "baseUrl": "https://angular.realworld.io",
+  "userAgent": "testing",
+  "projectId": "susek4"
 }
